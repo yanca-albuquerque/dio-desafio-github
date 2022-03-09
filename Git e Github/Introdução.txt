@@ -1,0 +1,7 @@
+Projeto no Git/Github
+
+Download Git: https://git-scm.com/downloads
+Site Github: https://github.com/
+
+Utilizamos o Git Bash junto com o link do Github, para a criação do repositório do desafio da DIO.
+
